@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0009-palindrome-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
