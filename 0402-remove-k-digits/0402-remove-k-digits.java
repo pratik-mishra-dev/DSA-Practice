@@ -17,18 +17,21 @@ class Solution {
         }
         
 
-         StringBuilder sb = new StringBuilder();
+         String s ="";
 
         while (!st.isEmpty()) {
-            sb.append(st.pop());
+            s=st.pop()+s;
+        }
+        int i=0;
+        while(i<s.length() && s.charAt(i)=='0')
+        i++;
+
+        if (i == s.length()) {
+            return "0";
         }
 
-        sb.reverse();
-        int i = 0;
-        while (i < sb.length() && sb.charAt(i) == '0') {
-            i++;
-        }
-        String ans = sb.substring(i);
-        return ans.isEmpty() ? "0" : ans;
+        return s.substring(i);
+
+        
     }
 }
