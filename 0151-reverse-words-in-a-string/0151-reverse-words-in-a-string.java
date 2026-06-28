@@ -1,0 +1,23 @@
+class Solution {
+    public String reverseWords(String s) {
+        int i = s.length() - 1;
+        String ans = "";
+
+        while (i >= 0) {
+
+            while (i >= 0 && s.charAt(i) == ' ') i--; // skip spaces
+            if (i < 0) break;
+
+            int j = i;
+
+            while (i >= 0 && s.charAt(i) != ' ') i--; // find word start
+
+            if (ans.length() == 0)
+                ans = s.substring(i + 1, j + 1);
+            else
+                ans += " " + s.substring(i + 1, j + 1);
+        }
+
+        return ans;
+    }
+}
