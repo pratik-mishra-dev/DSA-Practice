@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [2390-removing-stars-from-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [2390-removing-stars-from-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -82,5 +84,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0605-can-place-flowers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
