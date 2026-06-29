@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
