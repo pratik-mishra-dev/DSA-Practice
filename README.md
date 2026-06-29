@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
