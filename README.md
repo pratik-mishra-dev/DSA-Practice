@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
