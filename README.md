@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0283-move-zeroes) |
