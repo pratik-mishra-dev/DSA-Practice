@@ -9,17 +9,18 @@ class Solution {
         while(j<n && sum<target){
             sum+=nums[j++];
         }
-        j--;
-        while(j<n && i<n){
-            int len=j-i+1;//j aak age he than of liding window so length not -1
-            if(sum>=target) min=Math.min(min,len);
+        //j--;
+        while(i<n){
+           if(sum>=target){
+             int len=j-i;//j aak age he than of liding window so length not -1
+            min=Math.min(min,len);
             sum-=nums[i];
-            i++;j++;
-            while(j<n && sum<target){
-                sum+=nums[j++];
-            }
-            j--;
-            
+            i++;
+           }
+            else{
+            if(j==n) break; 
+             sum+=nums[j++];
+        }
         }
 
         if(min==Integer.MAX_VALUE) return 0;
