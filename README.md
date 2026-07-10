@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Sorting
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
