@@ -217,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0687-longest-univalue-path) |
+## Depth-First Search
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0687-longest-univalue-path) |
+## Binary Tree
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
