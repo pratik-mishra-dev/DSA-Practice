@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1109-corporate-flight-bookings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1109-corporate-flight-bookings) |
+| [1260-shift-2d-grid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
+| [1260-shift-2d-grid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Trie
 |  |
