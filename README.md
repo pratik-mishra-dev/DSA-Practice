@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
