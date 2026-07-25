@@ -1,0 +1,23 @@
+class Solution {
+    public long count(int i,int[] coins,int amount, long[][] dp){
+        if(i==coins.length){
+            if(amount==0) return 0;
+            else return Integer.MAX_VALUE;
+        }
+        if(dp[i][amount]!=-1) return dp[i][amount];
+        long skip=count(i+1,coins,amount,dp);
+        if(amount-coins[i]<0) return dp[i][amount]=skip;
+        long pick=1+count(i,coins,amount-coins[i],dp);
+
+        return dp[i][amount]=Math.min(skip,pick);
+    }
+    public int coinChange(int[] coins, int amount) {
+        long[][] dp=new long[coins.length][amount+1];
+        for (long[] row : dp)
+        Arrays.fill(row,-1);
+
+       int ans=(int)count(0,coins,amount,dp);
+       if(ans==Integer.MAX_VALUE) return -1;
+       return ans;
+    }
+}
