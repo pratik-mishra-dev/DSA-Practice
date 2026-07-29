@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
