@@ -273,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0494-target-sum) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
