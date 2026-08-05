@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1496-path-crossing](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1496-path-crossing) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1052-grumpy-bookstore-owner) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
