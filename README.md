@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0238-product-of-array-except-self) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Trie
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0687-longest-univalue-path](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0687-longest-univalue-path) |
 | [1367-linked-list-in-binary-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
@@ -327,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
