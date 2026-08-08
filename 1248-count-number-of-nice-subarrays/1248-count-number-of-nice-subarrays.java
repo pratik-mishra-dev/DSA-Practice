@@ -1,40 +1,21 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
         int n=nums.length;
-        int i=0;
         int count=0;
-       
-        while(i<n && nums[i]%2!=1)
-        i++;
+       for(int i=0;i<n;i++) nums[i]=nums[i]%2;
+       for(int i=1;i<n;i++) nums[i]=nums[i]+nums[i-1];
+       HashMap<Integer,Integer> map=new HashMap<>();
+       for(int i=0;i<n;i++){
+        if(!map.containsKey(nums[i])) map.put(nums[i],i);
+        int a=0;
+        if(map.containsKey(nums[i]-k)) a=map.get(nums[i]-k);
+        int b=0;
+        if(map.containsKey(nums[i]-k+1)) b=map.get(nums[i]-k+1);
 
-         int odd = 1;
-        int j = i + 1;
-
-        while (j < n && odd < k) {
-            if (nums[j] % 2 == 1)
-                odd++;
-            j++;
-        }
-        j--;
-
-        if (odd < k)
-            return 0;
-
-        int a=0,b=j+1;
-        b=j+1;
-          while(b<n && nums[b]%2!=1) b++;
-             b--;
-
-        while(b<n){
-            count+=(i-a+1)*(b-j+1);
-            a=i+1;
-            i++;
-            while(i<n && nums[i]%2!=1) i++;
-            j=b+1;
-            b=j+1;
-             while(b<n && nums[b]%2!=1) b++;
-             b--;
-        }
+        if(nums[i]==k) count+=(b-a+1);
+        else count+=(b-a);
+       }
         return count;
+      
     }
 }
