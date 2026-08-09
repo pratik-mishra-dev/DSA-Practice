@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1496-path-crossing](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
