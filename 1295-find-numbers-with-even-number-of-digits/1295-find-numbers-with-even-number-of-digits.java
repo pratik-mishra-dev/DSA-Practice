@@ -1,7 +1,10 @@
 class Solution {
     public boolean check(int n){
-        String s=""+n;
-        int a=s.length();
+       int a=0;
+       while(n>0){
+        a++;
+        n/=10;
+       }
         if(a%2==0) return true;
         return false;
     }
