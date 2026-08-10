@@ -1,7 +1,7 @@
 class Solution {
     public void rotate(int[][] matrix) {
      int m=matrix.length;
-        // int n=matrix[0].length;
+        
         for(int i=0;i<m;i++){
             for(int j=i+1;j<m;j++){
                 int temp=matrix[i][j];
@@ -9,7 +9,7 @@ class Solution {
                 matrix[j][i]=temp;
 
             }
-        }
+        } 
          for(int i=0;i<m;i++){
                 int j=0,k=m-1;
                 while(j<k){
@@ -26,13 +26,19 @@ class Solution {
         int m=mat.length;
         
         for(int a=0;a<4;a++){
-            int k=0;
-            for(int i=0;i<m;i++){
+            boolean flag=true;
+            for(int i=0;i<m && flag;i++){
             for(int j=0;j<m;j++){
-                if(mat[i][j]==target[i][j]) k++;
+                if(mat[i][j]!=target[i][j]){
+                    flag=false;
+                    break;
+                }
+                
             }
+         
         }
-        if(k==m*m) return true;
+        
+        if(flag) return true;
         rotate(mat);
         }
         return false;
