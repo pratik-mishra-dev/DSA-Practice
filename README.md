@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1143-longest-common-subsequence) |
