@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0392-is-subsequence) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0322-coin-change) |
