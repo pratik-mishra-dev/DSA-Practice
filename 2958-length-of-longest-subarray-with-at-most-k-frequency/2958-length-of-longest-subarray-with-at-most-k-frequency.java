@@ -16,7 +16,7 @@ class Solution {
             max=Math.max(max,j-i+1);
             j++;
         }
-         max=Math.max(max,j-i);
+        
          return max;
     }
 }
