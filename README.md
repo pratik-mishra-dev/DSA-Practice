@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
 | ------- |
