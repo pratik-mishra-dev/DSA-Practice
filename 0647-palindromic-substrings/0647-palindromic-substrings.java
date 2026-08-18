@@ -3,12 +3,12 @@ class Solution {
         int n=s.length();
         int ans=0;
         for(int i=0;i<n;i++){
-            String a="";
+            StringBuilder a=new StringBuilder();
             for(int j=i;j<n;j++){
                 char c=s.charAt(j);
-                a+=c;
-                 String b=new StringBuilder(a).reverse().toString();
-                if (a.equals(b)) {
+                a.append(c);
+                 StringBuilder b=new StringBuilder(a).reverse();
+                if (a.toString().equals(b.toString())) {
                     ans++;
                 }
             }
