@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1143-longest-common-subsequence) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1092-shortest-common-supersequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
