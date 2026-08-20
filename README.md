@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0322-coin-change) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0687-longest-univalue-path) |
 | [1367-linked-list-in-binary-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0687-longest-univalue-path) |
 | [1367-linked-list-in-binary-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
@@ -394,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
