@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0869-reordered-power-of-2](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0869-reordered-power-of-2](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0869-reordered-power-of-2](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0869-reordered-power-of-2](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [1331-rank-transform-of-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0869-reordered-power-of-2](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Union-Find
 |  |
