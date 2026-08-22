@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Manacher
