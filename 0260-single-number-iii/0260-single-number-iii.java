@@ -1,22 +1,18 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-         HashMap<Integer,Integer> map=new HashMap<>();
+        int xor=0;
+        for(int ele:nums){
+            xor^=ele;
+        }
+        int rightBitOff=xor&(xor-1);
+        int mask=rightBitOff^xor;
 
-        for(int i=0;i<nums.length;i++){
-            if(map.containsKey(nums[i])){
-                map.put(nums[i],map.get(nums[i])+1);
-            }
-            else{
-                map.put(nums[i],1);
-            }
+        int b1=0,b2=0;
+        for(int ele:nums){
+            if((mask & ele)==0) b1^=ele;
+            else b2^=ele;
         }
-        int[] ans={-1,-1};
-        int x=0;
-        for(int ele: map.keySet()){
-            if(map.get(ele)==1){
-                ans[x++]=ele;
-            }
-        }
-        return ans;
+
+        return new int[] {b1,b2};
     }
 }
