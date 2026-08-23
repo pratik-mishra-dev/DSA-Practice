@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0169-majority-element) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0494-target-sum) |
 ## Database
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0231-power-of-two) |
