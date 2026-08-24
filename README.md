@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1109-corporate-flight-bookings) |
+| [1200-minimum-absolute-difference](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0869-reordered-power-of-2](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1200-minimum-absolute-difference](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
