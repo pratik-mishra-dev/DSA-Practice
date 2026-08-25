@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1672-richest-customer-wealth](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Trie
 |  |
