@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1534-count-good-triplets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1672-richest-customer-wealth) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0869-reordered-power-of-2) |
+| [1534-count-good-triplets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Union-Find
 |  |
