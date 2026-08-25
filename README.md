@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1486-xor-operation-in-an-array) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
