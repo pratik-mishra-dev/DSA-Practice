@@ -1,101 +1,37 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     public boolean isEvenOddTree(TreeNode root) {
-        Deque<TreeNode> q = new ArrayDeque<>();
+        Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
+
         int level = 0;
 
-        while (q.size() > 0) {
+        while (!q.isEmpty()) {
             int size = q.size();
 
-            int x = (level % 2 == 0) ? Integer.MIN_VALUE : Integer.MAX_VALUE;
-
-            TreeNode tempTop = q.remove();
-
-            if (level == 0) {
-                if (tempTop.val % 2 == 0)
-                    return false;
-            }
-
-            if (tempTop.left != null)
-                q.add(tempTop.left);
-            if (tempTop.right != null)
-                q.add(tempTop.right);
-
-            if (level % 2 == 0) {
-                 if (tempTop.val % 2 == 0)
-                    return false;
-                if (tempTop.val <= x) 
-                    return false;
-
-                x = tempTop.val; 
-
-                size--;
-
-                while (size > 0) {
-                    TreeNode temp = q.remove();
-
-                    if (temp.val % 2 == 0)
+            int prev = (level % 2 == 0) ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+            
+            while (size-- > 0) {
+                TreeNode curr = q.remove();
+                // Even level
+                if (level % 2 == 0) {
+                    if (curr.val % 2 == 0 || curr.val <= prev)
                         return false;
-
-                    if (temp.val <= x)
-                        return false;
-
-                    x = temp.val;
-
-                    if (temp.left != null)
-                        q.add(temp.left);
-                    if (temp.right != null)
-                        q.add(temp.right);
-
-                    size--;
                 }
-            }
-
-            else if (level % 2 == 1) {
-                if (tempTop.val % 2 == 1) 
-                    return false;
-
-                if (tempTop.val >= x)
-                    return false;
-
-                x = tempTop.val;
-
-                size--;
-
-                while (size > 0) {
-                    TreeNode temp = q.remove();
-
-                    if (temp.val % 2 == 1)
+                // Odd level
+                else {
+                    if (curr.val % 2 == 1 || curr.val >= prev)
                         return false;
-
-                    if (temp.val >= x)
-                        return false;
-
-                    x = temp.val;
-
-                    if (temp.left != null)
-                        q.add(temp.left);
-                    if (temp.right != null)
-                        q.add(temp.right);
-
-                    size--;
                 }
+
+                prev = curr.val;
+
+                if (curr.left != null)
+                    q.add(curr.left);
+
+                if (curr.right != null)
+                    q.add(curr.right);
             }
+
             level++;
         }
         return true;
