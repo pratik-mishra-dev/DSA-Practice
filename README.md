@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0169-majority-element) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0494-target-sum) |
 ## Database
 |  |
