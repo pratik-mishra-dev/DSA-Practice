@@ -30,10 +30,10 @@ class Solution {
         for(int i=0;i<n;i++){
             if(chess[i][col]=='Q') return false;
         }
-        // //check rows
-        //  for(int i=0;i<n;i++){
-        //     if(chess[row][i]=='Q') return false;
-        // }
+        //check rows
+         for(int i=0;i<n;i++){
+            if(chess[row][i]=='Q') return false;
+        }
 
 
 
@@ -46,23 +46,23 @@ class Solution {
              j++;
         }
 
-        // //check for SE
-        //  i=row;
-        //  j=col;
-        // while(i<n && j<n){
-        //      if(chess[i][j]=='Q') return false;
-        //      i++;
-        //      j++;
-        // }
+        //check for SE
+         i=row;
+         j=col;
+        while(i<n && j<n){
+             if(chess[i][j]=='Q') return false;
+             i++;
+             j++;
+        }
 
-        // //check for SW
-        //  i=row;
-        //  j=col;
-        // while(j>=0 && i<n){
-        //      if(chess[i][j]=='Q') return false;
-        //      i++;
-        //      j--;
-        // }
+        //check for SW
+         i=row;
+         j=col;
+        while(j>=0 && i<n){
+             if(chess[i][j]=='Q') return false;
+             i++;
+             j--;
+        }
 
         //check for Nw
          i=row;
