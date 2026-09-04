@@ -8,7 +8,10 @@ class Solution {
     public void helper(int[] nums, int ind, List<List<Integer>> ans) {
         int n = nums.length;
         if (ind == n - 1) {
-            List<Integer> l = Arrays.stream(nums).boxed().toList();
+            List<Integer> l = new ArrayList<>();
+            for(int i=0;i<n;i++)
+            l.add(nums[i]);
+            
             ans.add(l);
             return;
         }
