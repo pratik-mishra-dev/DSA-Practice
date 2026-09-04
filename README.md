@@ -465,4 +465,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
