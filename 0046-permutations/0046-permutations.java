@@ -1,29 +1,28 @@
 class Solution {
-    public void check(int[] nums,List<Integer> l,List<List<Integer>> ans,boolean[] isvalid){
-        if(nums.length==l.size()){
-            List<Integer> temp=new ArrayList<>();
+    public void swap(int i, int j, int[] nums) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
 
-            for(int i=0;i<l.size();i++)
-                temp.add(l.get(i));
-
-            ans.add(temp);
+    public void helper(int[] nums, int ind, List<List<Integer>> ans) {
+        int n = nums.length;
+        if (ind == n - 1) {
+            List<Integer> l = Arrays.stream(nums).boxed().toList();
+            ans.add(l);
             return;
         }
-        for(int i=0;i<nums.length;i++){
-            if(isvalid[i]==false){
-                isvalid[i]=true;
-                l.add(nums[i]);
-                check(nums,l,ans,isvalid);
-                l.remove(l.size()-1);
-                isvalid[i]=false;
-            }
+        for (int i = ind; i < n; i++) {
+            swap(ind, i, nums);
+            helper(nums, ind + 1, ans);
+             swap(ind, i, nums);
+
         }
     }
+
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans=new ArrayList<>();
-        List<Integer> l=new ArrayList<>();
-        boolean[] isvalid=new boolean[nums.length];
-        check(nums,l,ans,isvalid);
+        List<List<Integer>> ans = new ArrayList<>();
+        helper(nums, 0, ans);
         return ans;
     }
 }
