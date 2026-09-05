@@ -7,17 +7,18 @@ class Solution {
         int[] left=new int[n];
         int[] right=new int[n];
 
-        for(int i=0;i<n;i++){
-            max=Math.max(max,nums[i]);
+        int i=0,j=n-1;
+        while(i!=n){
+             max=Math.max(max,nums[i]);
             left[i]=max;
-        }
 
-        for(int i=n-1;i>=0;i--){
-            min=Math.min(min,nums[i]);
-            right[i]=min;
+             min=Math.min(min,nums[j]);
+            right[j]=min;
+
+            i++;
+            j--;
         }
-        
-        for(int i=0;i<n;i++){
+        for(i=0;i<n;i++){
             if(left[i]-right[i]<=k) return i;
         }
         return -1;
