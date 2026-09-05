@@ -10,7 +10,7 @@ class Solution {
         }
 
         //imp math and obserbation
-        int srow=row/3*3;
+        int srow=row/3*3;//this 2 line very imp
         int scol=col/3*3;
         for(int i=srow;i<srow+3;i++){
             for(int j=scol;j<scol+3;j++){
