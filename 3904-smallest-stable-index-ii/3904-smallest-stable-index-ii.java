@@ -9,10 +9,10 @@ class Solution {
 
         int i=0,j=n-1;
         while(i!=n){
-             max=Math.max(max,nums[i]);
+             if(max<nums[i]) max=nums[i];
             left[i]=max;
 
-             min=Math.min(min,nums[j]);
+            if(min>nums[j]) min=nums[j];
             right[j]=min;
 
             i++;
