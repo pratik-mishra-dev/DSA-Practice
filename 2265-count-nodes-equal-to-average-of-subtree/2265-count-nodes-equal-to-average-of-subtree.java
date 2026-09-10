@@ -33,7 +33,7 @@ class Solution {
 
         int avg=sum/count;
 
-        if (root.val== avg) {  // root.val == average
+        if (root.val== avg) { 
             ans++;
         }
 
