@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0079-word-search) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0072-edit-distance) |
