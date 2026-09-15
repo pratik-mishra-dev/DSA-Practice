@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0687-longest-univalue-path](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0687-longest-univalue-path) |
+| [0785-is-graph-bipartite](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1367-linked-list-in-binary-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1609-even-odd-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Longest Common Subsequence
 |  |
@@ -528,9 +531,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0836-rectangle-overlap) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
