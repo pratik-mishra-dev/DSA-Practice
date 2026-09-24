@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public class pair implements Comparable<pair>{
         int ind;
