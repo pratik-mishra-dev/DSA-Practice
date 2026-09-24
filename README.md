@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1514-path-with-maximum-probability](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1534-count-good-triplets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [1046-last-stone-weight](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [1514-path-with-maximum-probability](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Geometry
 |  |
@@ -577,4 +580,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
