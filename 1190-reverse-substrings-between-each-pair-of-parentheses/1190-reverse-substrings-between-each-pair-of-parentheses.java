@@ -2,28 +2,29 @@ class Solution {
     public String reverseParentheses(String s) {
         Stack<Character> st=new Stack<>();
 
-        for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
+        for(char c:s.toCharArray()){
+            
             if(c!=')'){
                 st.push(c);
             }
             else{
-                String temp="";
+                StringBuilder temp=new StringBuilder();
+
                 while(st.peek()!='('){
-                    temp+=st.pop();
+                    temp.append(st.pop());
                 }
 
                 st.pop();
 
-                for(char ch:temp.toCharArray()){
-                    st.push(ch);
+                for(int i=0;i<temp.length();i++){
+                    st.add(temp.charAt(i));
                 }
             }
         }
-        String ans="";
+        StringBuilder ans=new StringBuilder();
         while(!st.isEmpty()){
-            ans=st.pop()+ans;
+             ans.append(st.pop());
         }
-        return ans;
+        return ans.reverse().toString();
     }
 }
