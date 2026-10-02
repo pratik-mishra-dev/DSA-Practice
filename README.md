@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0869-reordered-power-of-2](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0869-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0647-palindromic-substrings) |
+| [0771-jewels-and-stones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
