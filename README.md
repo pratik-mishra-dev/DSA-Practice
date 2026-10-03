@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0091-decode-ways) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
