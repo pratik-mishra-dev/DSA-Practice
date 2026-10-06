@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1903-largest-odd-number-in-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
