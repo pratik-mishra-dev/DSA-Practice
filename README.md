@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
