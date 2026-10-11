@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0342-power-of-four) |
 | [1310-xor-queries-of-a-subarray](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1310-xor-queries-of-a-subarray) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
