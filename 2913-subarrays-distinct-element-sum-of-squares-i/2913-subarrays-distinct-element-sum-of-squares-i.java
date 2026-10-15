@@ -5,7 +5,7 @@ class Solution {
         int ans=0;
 
         for(int i=0;i<n;i++){
-            Set<Integer> set=new HashSet<>();
+            HashSet<Integer> set=new HashSet<>();
             for(int j=i;j<n;j++){
                 set.add(nums.get(j));
                 int l=set.size();
