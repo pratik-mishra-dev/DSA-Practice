@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1109-corporate-flight-bookings) |
 | [1200-minimum-absolute-difference](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0687-longest-univalue-path](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0687-longest-univalue-path) |
 | [0785-is-graph-bipartite](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1367-linked-list-in-binary-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1609-even-odd-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Longest Common Subsequence
 |  |
