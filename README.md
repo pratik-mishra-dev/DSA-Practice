@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0925-long-pressed-name](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0925-long-pressed-name) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
