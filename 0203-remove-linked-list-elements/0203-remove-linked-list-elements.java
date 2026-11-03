@@ -16,12 +16,13 @@ class Solution {
         ListNode temp=head;
         while(temp!=null){
             if(temp.val!=val){
-                ListNode a=new ListNode(temp.val);
-                dommy.next=a;
-                dommy=a;
+               
+                dommy.next=temp;
+                dommy=temp;
             }
             temp=temp.next;
         }
+        dommy.next=null;
         return ans.next;
     }
 }
