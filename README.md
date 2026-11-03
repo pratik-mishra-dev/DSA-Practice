@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
