@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3693-climbing-stairs-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
