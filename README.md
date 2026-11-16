@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
