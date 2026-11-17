@@ -14,17 +14,25 @@ class Solution {
         List<Integer> l=new ArrayList<>();
 
         ListNode temp=head;
-        while(temp!=null){
+        ListNode temp_speed=head.next;
+
+        while(temp_speed.next!=null){
             l.add(temp.val);
             temp=temp.next;
+            temp_speed=temp_speed.next.next;
         }
-        int i=0,j=l.size()-1;
-        while(i<j){
-            int x=l.get(i)+l.get(j);
-            if(x>ans) ans=x;
-            i++;
-            j--;
+        
+        l.add(temp.val);
+        temp=temp.next;
+
+       int i=l.size()-1;
+       while(temp!=null){
+           int x=l.get(i)+temp.val;
+           if(x>ans) ans=x;
+           i--;
+            temp=temp.next;
         }
+
         return ans;
     }
 }
