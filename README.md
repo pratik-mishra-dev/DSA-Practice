@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0925-long-pressed-name) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
