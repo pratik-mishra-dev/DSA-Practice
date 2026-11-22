@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2409-count-days-spent-together) |
