@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-linked-list-in-binary-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2596-check-knight-tour-configuration) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
