@@ -1,7 +1,6 @@
 class RecentCounter {
-    Queue<Integer> q=new LinkedList<>();
-    public RecentCounter() {
-       
+    Queue<Integer> q=new ArrayDeque<>();
+    public RecentCounter() {   
     } 
     public int ping(int t) {
         q.add(t);
