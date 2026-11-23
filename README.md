@@ -431,10 +431,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0933-number-of-recent-calls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Merge Sort
 |  |
