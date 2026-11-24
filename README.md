@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0383-ransom-note) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratik-mishra-dev/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
