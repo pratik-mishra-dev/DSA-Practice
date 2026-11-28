@@ -1,24 +1,14 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap<Character,Integer> map=new HashMap<>();
-         HashSet<Character> set=new HashSet<>();
-
-
+        int[] arr=new int[26];
         for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
-            if(map.containsKey(c)){
-                map.remove(c);
-            }
-            else if(!set.contains(c)){
-                map.put(c,i);
-                set.add(c);
-            }
+            arr[s.charAt(i)-'a']++;
         }
-        int ind=Integer.MAX_VALUE;
-        for(Character ele:map.keySet()){
-            int x=map.get(ele);
-            if(x<ind) ind=x;
+
+        for(int j=0;j<s.length();j++){
+            if(arr[s.charAt(j)-'a']==1)
+                return j;
         }
-        return ind==Integer.MAX_VALUE?-1:ind;
+        return -1;
     }
 }
